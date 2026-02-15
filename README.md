@@ -2,6 +2,10 @@
 
 A simple calculator built using Java AWT as part of my Java learning journey.
 
+## Screenshot
+
+![Calculator UI](calculator-ui.png)
+
 ## Features
 - Basic operations: +, −, ×, ÷
 - Percentage (%)
