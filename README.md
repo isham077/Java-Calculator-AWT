@@ -2,7 +2,7 @@
 
 A simple calculator built using Java AWT as part of my Java learning journey.
 
-## Screenshot
+## Screenshot.
 
 ![Calculator UI](calculator-ui.png)
 
@@ -19,4 +19,4 @@ A simple calculator built using Java AWT as part of my Java learning journey.
 ## Tech Used
 - Java
 - Java AWT
-- IntelliJ IDEA
+- IntelliJ IDEA.
